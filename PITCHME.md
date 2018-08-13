@@ -1,9 +1,7 @@
 ---?image=assets/img/background.jpg
 
-## "Study WebCanape"
-#### система для обучения сотрудников 
-
-
+##@text-transform[none]("Study WebCanape")
+####@text-transform[capitalize](система для обучения сотрудников) 
 
 ---?image=assets/img/background.jpg&size=cover&opacity=30
 
