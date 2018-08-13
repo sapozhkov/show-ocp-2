@@ -26,7 +26,7 @@
 
 ---?image=assets/img/background.jpg&size=cover&opacity=30
 
-## Система позволяет
+### Система позволяет
 
 - Формировать и публиковать курсы по тематикам
 - Получить доступ к курсу сотруднику 
@@ -36,7 +36,7 @@
 
 ---?image=assets/img/background.jpg&size=cover&opacity=30
 
-## В планах
+### В планах
 
 - Упрощение интерфейса редактирования
 - Прикрепление курса к отделу
@@ -46,7 +46,7 @@
 
 ---?image=assets/img/future.jpg&size=cover&opacity=50
 
-## Будущее??
+### Будущее
 
 ---?image=assets/img/background.jpg
 
