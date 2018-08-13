@@ -1,7 +1,9 @@
+theme-override : assets/css/PITCHME.css
+
 ---?image=assets/img/background.jpg
 
-## @text-transform[none]("Study WebCanape")
-#### @text-transform[capitalize](система для обучения сотрудников) 
+## @css[headline]("Study WebCanape")
+#### @css[headline](Система Для Обучения Сотрудников) 
 
 
 ---?image=assets/img/background.jpg&size=cover&opacity=30
