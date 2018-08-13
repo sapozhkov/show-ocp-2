@@ -48,6 +48,6 @@
 
 ## Будущее??
 
----?image=assets/img/background.jpg&size=cover&opacity=50
+---?image=assets/img/background.jpg
 
 ## Реальность!
