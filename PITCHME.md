@@ -1,8 +1,8 @@
 ---?image=assets/img/background.jpg
 
-## Система для обучения сотрудников
+### Система для обучения сотрудников
 
----?image=assets/img/background.jpg&size=cover&opacity=20
+---?image=assets/img/background.jpg&size=cover&opacity=30
 
 ### Реальность
 
@@ -22,7 +22,7 @@
 - Помощь в принятии решений о повышении
 - Контроль своих достижений сотрудником
 
----
+---?image=assets/img/background.jpg&size=cover&opacity=30
 
 ## Что система УЖЕ умеет
 
@@ -30,8 +30,8 @@
 - Хранение списка пользователей в системе
  - что прошел конкретный сотрудник
  - кто прошел конкретный курс
-
----
+ 
+---?image=assets/img/background.jpg&size=cover&opacity=30
 
 ## В планах
 
