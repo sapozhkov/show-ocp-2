@@ -16,7 +16,7 @@
 
 ---?image=assets/img/background.jpg&size=cover&opacity=30
 
-## Система "Study WebCanape"
+### Система "Study WebCanape"
 
 - Упрощение обучения
 - Систематизация знаний
@@ -27,14 +27,12 @@
 ---?image=assets/img/background.jpg&size=cover&opacity=30
 
 ## Система позволяет
-@ul
 
 - Формировать и публиковать курсы по тематикам
 - Получить доступ к курсу сотруднику 
 - Получить общую информацию о пользователях системы
 - Получить детальную информацию о курсах и о пользователях
 
-@ullend
 
 ---?image=assets/img/background.jpg&size=cover&opacity=30
 
@@ -50,4 +48,3 @@
 
 ## Будущее
 
-классная картинка. вставит Аня
