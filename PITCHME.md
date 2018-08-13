@@ -1,3 +1,6 @@
+---?image=assets/img/background.jpg
+
+
 ## Система для обучения сотрудников
 
 ---
