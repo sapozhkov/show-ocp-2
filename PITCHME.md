@@ -1,5 +1,3 @@
-theme-override : assets/css/PITCHME.css
-
 ---?image=assets/img/background.jpg
 
 ## @css[headline]("Study WebCanape")
