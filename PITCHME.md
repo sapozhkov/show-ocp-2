@@ -46,7 +46,7 @@
 
 ---?image=assets/img/future.jpg&size=cover&opacity=50
 
-### Будущее
+## Будущее
 
 ---?image=assets/img/background.jpg
 
