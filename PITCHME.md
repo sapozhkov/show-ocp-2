@@ -2,7 +2,6 @@
 
 ## Система для обучения сотрудников
 
----
 ---?image=assets/img/background.jpg&size=cover&opacity=20
 
 ### Реальность
@@ -13,8 +12,8 @@
  - текущий уровнь разный
 - знания разрознены
 
----
 ---?image=assets/img/background.jpg&size=cover&opacity=30
+
 ## Зачем нужна
 
 - Упрощение обучения
