@@ -1,6 +1,6 @@
 ---?image=assets/img/background.jpg
 
-### "Study WebCanape"
+## "Study WebCanape"
 ### система для обучения сотрудников 
 
 
